@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_report">
+    <sysauto_report action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <address_list/>
+        <business_calendar/>
+        <condition/>
+        <conditional>false</conditional>
+        <entered_time/>
+        <group_list/>
+        <include_detail>false</include_detail>
+        <include_with/>
+        <name>Descriptive name of schedule</name>
+        <omit_if_no_records>false</omit_if_no_records>
+        <output_type>PDF-landscape</output_type>
+        <page_height_in_pixels>612</page_height_in_pixels>
+        <page_size>Letter</page_size>
+        <page_width_in_pixels>792</page_width_in_pixels>
+        <report display_value="Active NeedIt Requests by Type">83b82888db311010a1642a9a48961928</report>
+        <report_body><![CDATA[<p>Dear all users,</p>
+<p>Attached please find the report.</p>]]></report_body>
+        <report_title>Active NeedIt Requests by Type Report</report_title>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2020-06-29 13:46:35</run_start>
+        <run_time>1970-01-01 23:55:00</run_time>
+        <run_type>weekly</run_type>
+        <sys_class_name>sysauto_report</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-29 13:52:32</sys_created_on>
+        <sys_id>a72d9d48dbb11010a1642a9a48961971</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Descriptive name of schedule</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sysauto_report_a72d9d48dbb11010a1642a9a48961971</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-29 13:52:32</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+        <user_list>5137153cc611227c000bbd1bd8cd2005</user_list>
+        <zip>false</zip>
+    </sysauto_report>
+</record_update>
